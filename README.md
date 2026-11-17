@@ -1,5 +1,11 @@
 # PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching
 
+
+The official repository is now maintained at [alibaba-multimodal-industrial-ai/PURE](https://github.com/alibaba-multimodal-industrial-ai/PURE).
+
+
+
+
 [![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](https://huggingface.co/datasets/alibaba-multimodal-industrial-ai/PURE/blob/main/PURE.pdf)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-FFD21E.svg)](https://huggingface.co/datasets/alibaba-multimodal-industrial-ai/PURE)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
